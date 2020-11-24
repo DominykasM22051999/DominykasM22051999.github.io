@@ -4,7 +4,8 @@ title:  "Gladiator Game Project"
 date:   2020-11-20 19:48:32 +0000
 ---
 ### <u>Overview</u>
-This project is a browser gladiator game the expected release of the MVP is early 2021.
+This project is a browser gladiator game the expected release of the MVP is early 2021. The team consists of four people
+with varied experience.
 
 **Workflows used**: Git and Agile. **Technologies used**: JavaScript, Node.js, MongoDB, Discord.js.
 
@@ -12,8 +13,8 @@ This project is a browser gladiator game the expected release of the MVP is earl
 
 ### <u>Contributions</u>
 
-#### <u>OpponentList</u>
-1) Developed the OpponentList screen which displays the logged in user, retrieved users, and bots from the database to the user who they can
+#### <u>Opponent List and Opponent Preview</u>
+Developed the OpponentList screen which displays the logged in user, retrieved users, and bots from the database to the user who they can
 then choose to fight. The refresh button communicates with the database to retrieve a mixture of bots and other players.
 From the list the user can then select an opponent they would like to fight by clicking the red sword. The user is then
 displayed with the preview of the opponent with their stats. If the fight button is clicked the user is taken to the
@@ -23,8 +24,8 @@ arena with the gladiator.
 </figure>
 <div align="center">(Reference: 24/11/2020)</div>
 
-#### <u>Attribute Allocation</u>
-2) Once a user levels up we want the user's gladiator to get stronger, so the user can choose between four stats that
+#### <u>Attribute Allocation System</u>
+Once a user levels up we want the user's gladiator to get stronger, so the user can choose between four stats that
 they can allocate the attribute point towards. If the user decides to retrieve that point and use it for another skill
 they are free to do so. Once the user clicks confirm the new stats and attribute points are updated in the database.
 <figure>
@@ -33,7 +34,7 @@ they are free to do so. Once the user clicks confirm the new stats and attribute
 <div align="center">(Reference: 24/11/2020)</div>
 
 #### <u>Generated 10,000 bots to the database</u>
-3) Generated 10,000 records of bots to the database. These bots have attribute points randomly assigned to them in a
+Generated 10,000 records of bots to the database. These bots have attribute points randomly assigned to them in a
 decimal format so when the user levels up the bots also get stronger. This is evident in the opponent list screen
 that I have made as the user is always matched with some players and bots of his gladiators' strength.
 <figure>
@@ -42,7 +43,7 @@ that I have made as the user is always matched with some players and bots of his
 <div align="center">(Reference: 24/11/2020)</div>
 
 #### <u>Swagger documentation for every Swagger endpoint (WIP)</u>
-4) I am currently working on documenting every endpoint of the server using Swagger OpenAPI 3.0 for the game server. 
+I am currently working on documenting every endpoint of the server using Swagger OpenAPI 3.0 for the game server. 
 This will prepare me for a possible future side project of the game and by knowing all the server endpoints it will 
 prepare me for it. The side project mentioned is not yet decided but in the stage of discussion. Utilising Spotlight
 Studio in this task to assist with creating every path, and model.
@@ -86,10 +87,10 @@ paths:
 <div align="center">(Example of one path: /gladiators - Reference: 24/11/2020)</div>
 
 #### <u>Bug fixing</u>
-5) Actively participating in testing and reviewing not only my code but also the rest of the team. Some examples of bugs
+Actively participating in testing and reviewing not only my code but also the rest of the team. Some examples of bugs
 that I have fixed are when the user spams the refresh button (as seen above in opponent list) the FPS will drop, user
 health was not reset after battle correctly, resetting frame on level up animation if a user leveled up more than once.
 
 #### <u>Creation of gladbot</u>
-6) Created a discord bot in the discord server of the team to display each member's  id, username, tag, and created_at
+Created a Discord bot in the Discord server of the team to display each member's  ID, username, tag, and created_at
 time.
