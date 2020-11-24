@@ -9,7 +9,7 @@ with varied experience.
 
 **Workflows used**: Git and Agile. **Technologies used**: JavaScript, Node.js, MongoDB, Discord.js.
 
-**Note**: Due to the project being in a private repository I am not able to share any code within the project.
+***Note**: Due to the project being in a private repository I am not able to share any code within the project.*
 
 ### <u>Contributions</u>
 
