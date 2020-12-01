@@ -24,15 +24,6 @@ arena with the gladiator.
 </figure>
 <div align="center">(Reference: 24/11/2020)</div>
 
-#### <u>Attribute Allocation System</u>
-Once a user levels up we want the user's gladiator to get stronger, so the user can choose between four stats that
-they can allocate the attribute point towards. If the user decides to retrieve that point and use it for another skill
-they are free to do so. Once the user clicks confirm the new stats and attribute points are updated in the database.
-<figure>
-    <IMG SRC="{{ site.baseurl }}/assets/AttributePoints.gif">
-</figure>
-<div align="center">(Reference: 24/11/2020)</div>
-
 #### <u>Battle Results Screen</u>
 Once a player chooses to battle another gladiator and the battle is finished the user is then displayed the battle results
 screen. The heading of the pop up and colour depends if the user has won or lost, if the user has won the pop up will 
@@ -45,6 +36,15 @@ and taken, actions, and the XP and gold they have earned. Once the click confirm
     <IMG SRC="{{ site.baseurl }}/assets/DefeatResults.gif">
 </figure>
 <div align="center">(Reference: 01/12/2020)</div>
+
+#### <u>Attribute Allocation System</u>
+Once a user levels up we want the user's gladiator to get stronger, so the user can choose between four stats that
+they can allocate the attribute point towards. If the user decides to retrieve that point and use it for another skill
+they are free to do so. Once the user clicks confirm the new stats and attribute points are updated in the database.
+<figure>
+    <IMG SRC="{{ site.baseurl }}/assets/AttributePoints.gif">
+</figure>
+<div align="center">(Reference: 24/11/2020)</div>
 
 #### <u>Generated 10,000 bots to the database</u>
 Generated 10,000 records of bots to the database. These bots have attribute points randomly assigned to them in a
