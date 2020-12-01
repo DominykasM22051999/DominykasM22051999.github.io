@@ -33,6 +33,19 @@ they are free to do so. Once the user clicks confirm the new stats and attribute
 </figure>
 <div align="center">(Reference: 24/11/2020)</div>
 
+#### <u>Battle Results Screen</u>
+Once a player chooses to battle another gladiator and the battle is finished the user is then displayed the battle results
+screen. The heading of the pop up and colour depends if the user has won or lost, if the user has won the pop up will 
+display output or it will display defeat if the user has lost. The screen tells the user how much damage they have dealt
+and taken, actions, and the XP and gold they have earned. Once the click confirm they return back on the idle screen. 
+<figure>
+    <IMG SRC="{{ site.baseurl }}/assets/BattleResults.gif">
+</figure>
+<figure>
+    <IMG SRC="{{ site.baseurl }}/assets/DefeatResults.gif">
+</figure>
+<div align="center">(Reference: 01/12/2020)</div>
+
 #### <u>Generated 10,000 bots to the database</u>
 Generated 10,000 records of bots to the database. These bots have attribute points randomly assigned to them in a
 decimal format so when the user levels up the bots also get stronger. This is evident in the opponent list screen
