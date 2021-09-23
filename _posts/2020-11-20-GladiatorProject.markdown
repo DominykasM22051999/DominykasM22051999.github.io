@@ -4,7 +4,7 @@ title:  "Gladiator Game Project"
 date:   2020-11-20 19:48:32 +0000
 ---
 ### <u>Overview</u>
-This project is a browser gladiator game the expected release of the MVP is early 2021. The team consists of four people
+This project is a browser gladiator game the expected release of the MVP is early 2022. The team consists of four people
 with varied experience in software development.
 
 **Workflows used**: Git and Agile. **Technologies used**: JavaScript, Node.js, MongoDB, Discord.js.

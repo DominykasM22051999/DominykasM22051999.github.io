@@ -23,7 +23,7 @@ email: makarovasdominykas@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  DominykasMakarovas
-linkedin_username: dominykas-makarovas-24bba6178
+linkedin_username: dominykas-makarovas
 
 # Build settings
 theme: minima
