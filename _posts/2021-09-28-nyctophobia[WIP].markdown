@@ -10,7 +10,7 @@ nyctophobia - scared of the dark.
 Project for CSC3232 - Gaming Simulations and Technologies.
 
 Part1 Submission 12/11/2021:
-<iframe width="420" height="315" src="https://www.youtube.com/embed/fkvDdV6xVho">
+<iframe width="600" height="420" src="https://www.youtube.com/embed/fkvDdV6xVho">
 </iframe>
 
 Will be updated as the project progresses/when it is complete.
