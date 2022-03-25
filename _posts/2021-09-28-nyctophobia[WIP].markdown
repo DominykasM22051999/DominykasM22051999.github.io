@@ -13,6 +13,6 @@ Project mainly looked at physics in games and interacting with the engine. Logic
 
 As I am not allowed to disclose my code due to University regulations of assessment, you can play the game down below!
 
-<iframe frameborder="0" src="https://itch.io/embed-upload/4940866?color=7b075e" allowfullscreen="" width="600" height="420"><a href="https://dominykasmakarovas.itch.io/nyctophobia">Play CSC3232 Nyctophobia on itch.io</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed-upload/4940866?color=7b075e" allowfullscreen="" width="800" height="720"><a href="https://dominykasmakarovas.itch.io/nyctophobia">Play CSC3232 Nyctophobia on itch.io</a></iframe>
 
 Will be updated as the project progresses/when it is complete.
